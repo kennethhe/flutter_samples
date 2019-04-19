@@ -1,0 +1,4 @@
+#Tue Apr 16 06:37:41 EDT 2019
+base.0=C\:\\Users\\kennethhe\\AndroidStudioProjects\\flutter\\MyMovies\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
